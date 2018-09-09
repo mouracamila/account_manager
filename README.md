@@ -1,2 +1,6 @@
-# account_manager
-Learning OOP _Python
+# Account Manager
+
+The project created during OOP Python training.
+
+Projeto realizado durante curso de POO com Python. 
+
